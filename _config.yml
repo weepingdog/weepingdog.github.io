@@ -1,7 +1,7 @@
 # Site settings
 title: weepingdog
 description: blog of weepingdog
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar.jpg
 baseurl:
 url: https://weepingdog.github.io
 rss_url:

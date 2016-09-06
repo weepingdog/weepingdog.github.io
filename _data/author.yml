@@ -1,35 +1,42 @@
 # Author settings
 name: weepingdog
-title: GIS工程师
-address: 中国, 成都
+title: Senior Engineer
+address: China, Chengdu
 email: farewellwhu(at)gmail.com
 github: weepingdog
-gavatar: /assets/img/avatar.JPG
+gavatar: /assets/img/avatar.jpg
 workHistory:
 - work2:
-  company: BBC
-  location: 中国，KK
-  title: AA
+  company: SMGI.CT
+  location: China, Chengdu
+  title: Team Manager
   started: 2014
-  duration: (2014.8 - 2015.8)
-  description: LINUX
+  duration: (2015.8 - 2016.9)
+  description: GIS, SQL
 
 - work1:
-  company: A
-  location: 中国, B
-  title: C
+  company: SMGI.GEC
+  location: China, Chengdu
+  title: Technology Support
   started: 2012
-  duration: (2013.6 - 2013.9)
-  description: FFF
+  duration: (2012.7 - 2015.6)
+  description: Geometics
 
 educationHistory:
 - education1:
-  organization: 武汉大学
-  degree: 学士
-  major: 测绘工程
+  organization: UCAS
+  degree: Master of Engineering 
+  major: Geodesy
+  started: 2009
+  duration: (2009.9 - 2012.7)
+  description: GPS, Bernese, GIPSY
+- education1:
+  organization: Wuhan University
+  degree: Bachelor of Engineering 
+  major: Geometics
   started: 2005
   duration: (2005.9 - 2009.7)
-  description: ABC
+  description: Geodesy, GPS, GIS, RS
 languages:
 - language1:
   name: 中文
