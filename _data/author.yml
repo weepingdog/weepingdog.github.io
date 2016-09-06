@@ -46,14 +46,17 @@ languages:
   proficiency: Limit
 programmingSkills:
 - C#:
-  name: WPF/Asp.net
+  name: C#
   percentage: 90%
 - SQL:
-  name: SQL Server/Oracle
-  percentage: 90%
+  name: SQL
+  percentage: 70%
 - CPP:
   name: C/C++
   percentage: 70%
 - Python:
   name: Python
+  percentage: 30%
+- Qt:
+  name: Qt
   percentage: 30%
