@@ -1,0 +1,52 @@
+# Author settings
+name: weepingdog
+title: GIS工程师
+address: 中国, 成都
+email: farewellwhu(at)gmail.com
+github: weepingdog
+gavatar: /assets/img/avatar.JPG
+workHistory:
+- work2:
+  company: BBC
+  location: 中国，KK
+  title: AA
+  started: 2014
+  duration: (2014.8 - 2015.8)
+  description: LINUX
+
+- work1:
+  company: A
+  location: 中国, B
+  title: C
+  started: 2012
+  duration: (2013.6 - 2013.9)
+  description: FFF
+
+educationHistory:
+- education1:
+  organization: 武汉大学
+  degree: 学士
+  major: 测绘工程
+  started: 2005
+  duration: (2005.9 - 2009.7)
+  description: ABC
+languages:
+- language1:
+  name: 中文
+  proficiency: Native
+- language2:
+  name: English
+  proficiency: Limit
+programmingSkills:
+- C#:
+  name: WPF/Asp.net
+  percentage: 90%
+- SQL:
+  name: SQL Server/Oracle
+  percentage: 90%
+- CPP:
+  name: C/C++
+  percentage: 70%
+- Python:
+  name: Python
+  percentage: 30%
